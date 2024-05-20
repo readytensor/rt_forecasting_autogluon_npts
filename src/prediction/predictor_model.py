@@ -159,7 +159,7 @@ class Forecaster:
 
         """
         prepared_data = self._prepare_data(train_data)
-        print()
+        
         future_covariates = None
         if self.use_future_covariates:
             future_covariates = self.data_schema.future_covariates
