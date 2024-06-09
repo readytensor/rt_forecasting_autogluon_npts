@@ -1,5 +1,5 @@
 {
-  "kernel_type": "exponential",
+  "kernel_type": "uniform",
   "exp_kernel_weights": 1.0,
   "use_seasonal_model": true,
   "num_samples": 100,
