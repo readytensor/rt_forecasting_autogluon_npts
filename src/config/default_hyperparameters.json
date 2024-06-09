@@ -1,7 +1,7 @@
 {
-  "kernel_type": "uniform",
+  "kernel_type": "exponential",
   "exp_kernel_weights": 1.0,
-  "use_seasonal_model": true,
+  "use_seasonal_model": false,
   "num_samples": 100,
   "num_default_time_features": 1,
   "use_static_features": false,
