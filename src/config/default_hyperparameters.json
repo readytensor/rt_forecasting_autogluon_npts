@@ -1,6 +1,6 @@
 {
   "kernel_type": "exponential",
-  "exp_kernel_weights": 1.0,
+  "exp_kernel_weights": 0.2,
   "use_seasonal_model": true,
   "num_samples": 500,
   "num_default_time_features": 1,
