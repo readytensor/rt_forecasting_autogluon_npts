@@ -1,9 +1,9 @@
 {
   "kernel_type": "exponential",
-  "exp_kernel_weights": 0.2,
+  "exp_kernel_weights": 1.0,
   "use_seasonal_model": true,
   "num_samples": 500,
-  "num_default_time_features": 1,
+  "num_default_time_features": 10,
   "use_static_features": false,
   "use_future_covariates": false,
   "use_past_covariates": false,
